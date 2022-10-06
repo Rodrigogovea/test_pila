@@ -1,7 +1,7 @@
 public class nodo 
 {
     int informacion;
-     nodo siguiente;
+    nodo siguiente;
 
     public nodo(int valor)
     {
